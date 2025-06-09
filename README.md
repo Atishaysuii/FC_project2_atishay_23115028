@@ -27,3 +27,7 @@ exposure, trigger early warnings systems and prioritize risk based actions
 - Various classification models like logistic regression,decision tree,xgboost and lightgbm were trained.
 - Based on the performance on evaluation metrics, XGBOOST was chosen as it had the best F2_SCORE;
 - classification cutoff was set below its default value of 0.5.
+
+## AUTHOR
+ Atishay Jain
+ 23115028
